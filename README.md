@@ -23,7 +23,8 @@ https://trello.com/b/hwcZVIfd/agile-squad
 <br />
 <br />
 
-# Ressources
+# Ressources / outils
 - [Un outil pour gérer facilement les rétrospectives en remote](http://draft.io/)
 - [Une liste de formats de rétrospectives](https://blog.myagilepartner.fr/index.php/retrospective/)
+- [Générer facilement des questionnaires pour vos réunions](https://app.sli.do/)
 - [La syntaxe Markdown pour pouvoir éditer ces pages facilement](https://www.markdownguide.org/basic-syntax)
